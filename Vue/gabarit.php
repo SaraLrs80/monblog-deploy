@@ -15,7 +15,7 @@
                 <?= $contenu ?>
             </div> <!-- #contenu -->
             <footer id="piedBlog">
-                Blog réalisé avec PHP, HTML5 et CSS.
+                Blog réalisé par SARA.
             </footer>
         </div> <!-- #global -->
     </body>
