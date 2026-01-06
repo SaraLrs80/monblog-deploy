@@ -19,10 +19,10 @@ services:
   # Web Server Service
   web:
     build: .
-    container_name: monblog-webb
+    container_name: monblog-webs
     restart: always
     ports:
-      - "8081:80"
+      - "8082:80"
     depends_on:
       - db
 
