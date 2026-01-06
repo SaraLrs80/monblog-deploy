@@ -24,4 +24,3 @@ jobs:
           push: true
           tags: |
             ${{ secrets.DOCKERHUB_USERNAME }}/monblog-web:latest
-            ${{ secrets.DOCKERHUB_USERNAME }}/monblog-web:${{ github.sha }}
